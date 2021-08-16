@@ -41,6 +41,7 @@ Other:
 * Updated to ranges-v3 0.11.0
 * Updated to boost 1.75
 * Updated to crypto++ 8.5
+* Updated to DokanY 1.3.0.1000
 
 
 Version 0.10.4
